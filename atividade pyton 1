@@ -1,0 +1,23 @@
+import os
+os. system ("cls || clear")
+
+# solicitando dados
+nome= input("digite seu nome: ")
+idade= int (input("digite sua idade: ") )
+primeira_nota= float(input (" digite sua primeira nota: "))
+segunda_nota= float(input ("digite sua segunda nota: "))
+tecera_nota=float(input("digite sua tercera nota: "))
+
+# calculando 
+soma = primeira_nota + segunda_nota + tecera_nota
+media = soma/ 3
+
+if media>=7:
+    resultado= "aprovado"
+else:
+    resultado= "reprovado"
+# exibindo dados
+print("\nexibindo resuldado: ")
+print(f"nome: {nome}")
+print(f"idade: {idade}")
+print(f"media: {media}")

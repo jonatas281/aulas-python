@@ -1,0 +1,23 @@
+import os
+os. system ("cls || clear")
+
+# solicitando dados
+primeiro_numero=float(input("digite primeiro numero: "))
+segundo_numero=float(input("digite segundo numero: "))
+
+#calculando
+soma=primeiro_numero+segundo_numero
+media=soma/2
+
+if primeiro_numero> segundo_numero:
+    print("primeiro numero é maior:")
+else:
+    print("segundo numero é maior")
+#exibindo resultado
+print("/nexibindo resultado: ")
+print(f"primeiro_numero: {primeiro_numero}")
+print(f"segundo_numero: {segundo_numero}")
+print(f"media: {media}")
+
+
+

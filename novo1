@@ -1,0 +1,13 @@
+import os
+os.system("cls||clear") # limpar o terminal
+
+#solicitando dados
+nome= input("digite seu nome:  ") 
+idade= int (input("digite sua idade: "))
+altura= float(input("digite sua altura: "))
+#exibindo dados
+print(f"nome: {nome}")
+print(f"idade: {idade} anos.")
+print(f"altura: {altura} metros.")
+
+print(f"meu nome é {nome},tenho {idade}anos e {altura} metros:")
