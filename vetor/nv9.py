@@ -132,3 +132,46 @@ print(f"Números na ordem inversa: {numeros_invertidos}")
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
