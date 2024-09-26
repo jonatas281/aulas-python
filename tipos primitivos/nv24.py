@@ -1,8 +1,8 @@
-# escreva um algoritimo que pergunte ao usuario se deseja
-# inserir mais uma nota, se a resposta do usuario for "N",
-# o programa fara a media aritmetica das notas informadas
-# e mostrara a media aritmetica para o  usuario.
-
+""" escreva um algoritimo que pergunte ao usuario se deseja
+ inserir mais uma nota, se a resposta do usuario for "N",
+ o programa fara a media aritmetica das notas informadas
+ e mostrara a media aritmetica para o  usuario.
+"""
 import os
 os. system("CLS || clear ")
 
