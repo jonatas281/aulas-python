@@ -6,7 +6,7 @@
 import os 
 os.system("cls || clear")
 
-def inlacionar(preco_produto):
+def inflacionar(preco_produto):
     if preco_produto <= 100:
         return preco_produto * 1.1
     else:

@@ -20,8 +20,6 @@ for i in range(quantidade_cliente):
       idade = int(input("digite sua idade: "))
       peso = float("digite seu peso: ")
       altura = float("dugite sua altura: ")
-    )
+  ) 
 #fazer leitura de dados do arquivo carteira_de_clientes.txt e mostre no terminal
 lista_cliente.append(cliente)
-
-for cliente
